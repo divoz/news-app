@@ -1,6 +1,4 @@
-# NEWS API
-
-### CHECK THE API ON HEROKU
+# News Rest API
 
 <p>The purpose of this API is to access application data programmatically.</br>
 The intention is to mimic the building of a real world backend service which should provide this information to the front end architecture.</p>
@@ -32,8 +30,7 @@ dotenv, express, pg, pg-format, jest, supertest
     <li>CLONE THE REPO </br>
 
 ```
-git clone
-cd <my folder>
+cd server
 ```
 
 </li>
