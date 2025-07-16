@@ -15,12 +15,6 @@
 
 <hr>
 
-### API USED IN THIS PROJECT
-
-[GitHub Project](https://github.com/dianavoz/news-api) <br>
-
-<hr>
-
 ### TECHNOLOGIES AND DEPENDENCIES
 
 ```
@@ -34,8 +28,7 @@ axios
 ### GET STARTED
 
 ```
-git clone https://github.com/dianavoz/nc-news.git
-cd <my folder>
+cd client
 ```
 
 ```
